@@ -9,7 +9,7 @@ namespace Calculadora.models
     {
         private int numero1;
         private int numero2;
-        
+        private int resultadoSoma;
 
         public Operacoes(int numero1, int numero2)
         {
